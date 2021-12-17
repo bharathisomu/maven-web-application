@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla central Repository </name>
-	      <url>http://3.144.134.209:8090/repository/tesla-snapshot/</url>
+	      <url>http://3.144.134.209:8090/repository/tesla-snapshots/</url>
 	      
 	    </snapshotRepository>
 	    
